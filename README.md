@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋 I'm David A Six</h1>
+<h1 align="center">Hi There 👋 I'm David A Six</h1>
 <p>Why the Six? I'm the sixth David Anderson in my family!</p>
 <ul>
   <li>👨‍💻 I'm a Full-Stack Web Developer</li>
@@ -6,7 +6,34 @@
   <li>🌍 I'm based in the Waterloo Ontario</li>
 </ul>
 
-What's up, my name is David.
+<h2>📊 Stats</h2>
+<p align="center">
+  <br />
+  <a
+    ><img
+      alt="David's Github Stats"
+      src="https://github-readme-stats.vercel.app/api?username=davidasix&theme=dark&hide_border=true&include_all_commits=true&count_private=true"
+      height="180"
+  /></a>
+  <a
+    ><img
+      alt="David's Top Languages"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidasix&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"
+      height="180"
+  /></a>
+  <br />
+  <br />
+</p>
+<p align="center">
+  <img
+    src="https://img.shields.io/youtube/channel/subscribers/UCQiVAedOFcCppJjemyFmC_g"
+    alt="YouTube Subscribers"
+  />
+  <img
+    src="https://img.shields.io/youtube/channel/views/UCQiVAedOFcCppJjemyFmC_g"
+    alt="YouTube Channel Views"
+  />
+</p>
 
 <h2>🌐 Social Media</h2>
 <h3 align="center">I'm davidasix <small>⁽ᵃˡᵐᵒˢᵗ⁾</small> everywhere</h3>
