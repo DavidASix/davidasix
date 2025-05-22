@@ -1,4 +1,4 @@
-<h1 align="center">Hi There 👋 I'm David A Six</h1>
+<h1 align="center">Hi there 👋 I'm David A Six</h1>
 <p>Why the Six? I'm the sixth David Anderson in my family!</p>
 <ul>
   <li>👨‍💻 I'm a Full-Stack Web Developer</li>
