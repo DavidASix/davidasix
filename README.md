@@ -25,14 +25,18 @@
   <br />
 </p>
 <p align="center">
-  <img
-    src="https://img.shields.io/youtube/channel/subscribers/UCQiVAedOFcCppJjemyFmC_g"
-    alt="YouTube Subscribers"
-  />
-  <img
-    src="https://img.shields.io/youtube/channel/views/UCQiVAedOFcCppJjemyFmC_g"
-    alt="YouTube Channel Views"
-  />
+  <a href="https://www.youtube.com/@DavidASix" target="_blank">
+    <img
+      src="https://img.shields.io/youtube/channel/subscribers/UCQiVAedOFcCppJjemyFmC_g"
+      alt="YouTube Subscribers"
+    />
+  </a>
+  <a href="https://www.youtube.com/@DavidASix" target="_blank">
+    <img
+      src="https://img.shields.io/youtube/channel/views/UCQiVAedOFcCppJjemyFmC_g"
+      alt="YouTube Channel Views"
+    />
+  </a>
 </p>
 
 <h2>🌐 Social Media</h2>
