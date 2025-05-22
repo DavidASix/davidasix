@@ -1,9 +1,18 @@
-<h1 align="center">Hi There 👋 I'm David A Six</h1>
+<h1 align="center">Hi there 👋 I'm David A Six</h1>
 <p>Why the Six? I'm the sixth David Anderson in my family!</p>
 <ul>
   <li>👨‍💻 I'm a Full-Stack Web Developer</li>
   <li>📚 I use lots of stacks, but focus on Next.JS</li>
   <li>🌍 I'm based in the Waterloo Ontario</li>
+  <li>
+    👞 I run
+    <a
+      href="https://redoxfordonline.com?utm_source=github-profile"
+      target="_blank"
+      >RedOxfordOnline</a
+    >
+  </li>
+  <li>🏔 Employee at Big River Analytics</li>
 </ul>
 
 <h2>📊 Stats</h2>
@@ -54,7 +63,7 @@
       alt="YouTube Logo"
     />
   </a>
-  <a href="https://www.davidasix.com" target="_blank">
+  <a href="https://www.davidasix.com?utm_source=github-profile" target="_blank">
     <img
       src="https://img.shields.io/badge/-website-542670?style=for-the-badge&logo=GNOMETerminal&logoColor=FFFFFF"
       alt="Website Link"
